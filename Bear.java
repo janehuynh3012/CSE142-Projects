@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 6/7/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #8: Critters
-
 // This program sets a Bear critter class that defines its behavior. 
  
 import java.awt.*;
