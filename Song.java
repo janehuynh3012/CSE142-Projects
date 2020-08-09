@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 4/9/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #1: Song
-//
 // This program will produce a cummulative song in which successive verses
 // build on previous verses.
 public class Song {
