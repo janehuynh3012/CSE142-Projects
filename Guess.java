@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 5/4/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #4: Guess
-
 // This is a guessing game in which a user tries to guess a particular
 // number with a range of 1 to 100. The program reports the total number
 // of guesses made and the overall results of the guesses.
