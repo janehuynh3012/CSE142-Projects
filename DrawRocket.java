@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 4/15/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #2: Rocket Ship
-
 // This program produces as output an ASCII art representation of a rocket.
 // This version inclues a class constant for drawing rockets of different
 // sizes.
