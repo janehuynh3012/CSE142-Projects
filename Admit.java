@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 4/28/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #4: Admissions
-
 // This programs finds the standardized test scores, GPAs and overall scores
 // for two individuals.
 // This variation includes several methods other than method main that
