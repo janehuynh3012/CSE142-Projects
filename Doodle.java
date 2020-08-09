@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 4/21/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #3: Doodle
-
 // This program produces as output a subfigure of two UFOs facing sunshine
 // on a drawing panel with pixel 100, 100.
 
