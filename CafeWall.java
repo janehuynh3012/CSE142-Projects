@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 4/21/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #3: CafeWall
-
 // This program draws different versions of a particular subfigure on the screen.
 // This version is structured so that main calls 2 rows and 4 grids to draw the subfigures.
 
