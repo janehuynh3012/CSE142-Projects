@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 5/29/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #7: Personality
-
 // This program processes an input file of data for a personality test and
 // produces output of one's overall result and score for each dimension.
 
