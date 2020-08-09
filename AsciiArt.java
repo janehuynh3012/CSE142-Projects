@@ -1,9 +1,3 @@
-// Anh Kim Huynh
-// 4/15/20
-// CSE142
-// TA: Harshal V Desai
-// Assignment #2: ASCII Art
-
 // This program produces as output an ASCII art representation of a christmas
 // tree.
 
