@@ -21,12 +21,12 @@ public class Solution {
       // The first applicant seems to be better
       System.out.println("First applicant overall score = " + applicant1);
       System.out.println("Second applicant overall score = " + applicant1);
-      if(applicant1 > applicant2)
-        System.out.println("The first applicant seems to be better");
-      else if(applicant2 > applicant1)
-        System.out.println("The second applicant seems to be better");
+      if (applicant1 > applicant2)
+         System.out.println("The first applicant seems to be better");
+      else if (applicant2 > applicant1)
+         System.out.println("The second applicant seems to be better");
       else
-        System.out.println("The two applicant seem to be equal");
+         System.out.println("The two applicant seem to be equal");
    }
    
    public static void giveIntro() {
@@ -41,10 +41,10 @@ public class Solution {
       System.out.print("\tdo you have 1) SAT scores or 2) ACT scores? ");
       int standardizedTestOpt = console.nextInt();
       double examScore = 0;
-      if(standardizedTestOpt == SAT) {
-        examScore = SAT(console);
+      if (standardizedTestOpt == SAT) {
+         examScore = SAT(console);
       } else {
-        examScore = ACT(console);
+         examScore = ACT(console);
       }
       // examscore has been calculated
       // compute the rest similarly for both standardized Test
